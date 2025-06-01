@@ -29,15 +29,7 @@
 
 ---
 
-### 📊 GitHub Stats:
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mutlu-java&show_icons=true&locale=en" alt="mutlu-java" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mutlu-java" alt="mutlu-java" />
-</p>
 
 ---
 
